@@ -1,0 +1,14 @@
+1.mySQL file is included.
+2. You can host via laravel valet or php artisan serve.
+3. Don't forget to configure .env file
+
+Credentials:
+admin account
+email: jeanozamora@gmail.com
+password: admin
+
+user account
+email: jeano@jeano.com
+password: user
+
+Thank you! :) 
